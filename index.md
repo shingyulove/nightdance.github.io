@@ -1,4 +1,4 @@
-## Welcome to Nightdance yingyingying
+## Welcome to Nightdance yingying
 
 You can use the [editor on GitHub](https://github.com/shingyulove/nightdance.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
